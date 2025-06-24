@@ -18,18 +18,17 @@ def generate_comet_svg(filename="github-contribution-grid-comet.svg"):
                                            fill=comet_color, opacity=opacity))
         dwg.add(frame_group)
 
-    animate_script = """
-    <![CDATA[
-        let frame = 0;
-        setInterval(() => {
-            for (let i = 0; i < 50; i++) {
-                document.getElementById('frame-' + i).setAttribute('visibility', i === frame ? 'visible' : 'hidden');
-            }
-            frame = (frame + 1) % 50;
-        }, 80);
-    ]]>
-    """
-    dwg.add(dwg.script(content=animate_script))
+    animate_script = """\
+let frame = 0;
+setInterval(function () {
+    for (let i = 0; i < 50; i++) {
+        let el = document.getElementById('frame-' + i);
+        if (el) el.setAttribute('visibility', i === frame ? 'visible' : 'hidden');
+    }
+    frame = (frame + 1) % 50;
+}, 80);
+"""
+    dwg.add(dwg.script(type="text/javascript", content=animate_script))
     dwg.save()
 
 generate_comet_svg()
