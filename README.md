@@ -1,4 +1,4 @@
-# 💫 About Me:
+## 🚀 About Me
 I'm Vishal Singh, a B.E. Mechanical Engineering student at Thapar Institute of Engineering and Technology, deeply passionate about Deep learning and Data Science. As a dedicated self-learner, I’ve built a solid foundation in Deep Learning, and Data Science, and I’m particularly enthusiastic about applying these technologies to solve engineering problems. I have hands-on experience in combining core mechanical engineering principles with advanced AI techniques to tackle real-world challenges to develop innovative and practical solutions.
 <br>
 ### Connect with me:
