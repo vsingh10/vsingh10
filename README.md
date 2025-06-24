@@ -24,9 +24,10 @@ I'm Vishal Singh, a B.E. Mechanical Engineering student at Thapar Institute of E
 ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
 <div align="center">
-	<picture>
-	  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vsingh10/vsingh10/snake-output/github-contribution-grid-snake-dark.svg" />
-	  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vsingh10/vsingh10/snake-output/github-contribution-grid-snake.svg" />
-	  <img alt="github-snake" src="https://raw.githubusercontent.com/vsingh10/vsingh10/snake-output/github-contribution-grid-snake-dark.svg" />
-	</picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vsingh10/vsingh10/main/github-contribution-grid-comet.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vsingh10/vsingh10/main/github-contribution-grid-comet.svg" />
+    <img alt="github-comet" src="https://raw.githubusercontent.com/vsingh10/vsingh10/main/github-contribution-grid-comet.svg" />
+  </picture>
 </div>
+
