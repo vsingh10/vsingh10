@@ -3,7 +3,7 @@ I'm Vishal Singh, a B.E. Mechanical Engineering student at Thapar Institute of E
 <br>
 ### Connect with me:
 
-[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=NOD9Y0UAAAAJ&hl=en)
+[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4?style=flat&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=NOD9Y0UAAAAJ&hl=en)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vishal-singh10/)
 
 # 💻 Tech Stack:
