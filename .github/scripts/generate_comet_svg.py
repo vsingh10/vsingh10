@@ -3,7 +3,7 @@ import math
 
 def generate_comet_svg(filename="github-contribution-grid-comet.svg"):
     dwg = svgwrite.Drawing(filename, profile='tiny', size=("800px", "200px"))
-    comet_color = "#00fff7"
+    comet_color = "#ff0000"
     trail_length = 8
 
     for frame in range(50):
