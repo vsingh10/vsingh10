@@ -1,0 +1,33 @@
+name: Generate Comet SVG
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  push:
+    branches:
+      - main
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v3
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.x'
+
+      - name: Run comet generator
+        run: |
+          pip install svgwrite
+          python .github/scripts/generate_comet_svg.py
+
+      - name: Commit and push
+        run: |
+          git config --global user.name 'GitHub Action'
+          git config --global user.email 'action@github.com'
+          git add github-contribution-grid-comet.svg
+          git commit -m "Generate comet contribution animation" || echo "No changes to commit"
+          git push
