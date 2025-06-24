@@ -25,9 +25,9 @@ I'm Vishal Singh, a B.E. Mechanical Engineering student at Thapar Institute of E
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vsingh10/vsingh10/main/github-contribution-grid-comet.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vsingh10/vsingh10/main/github-contribution-grid-comet.svg" />
-    <img alt="github-comet" src="https://raw.githubusercontent.com/vsingh10/vsingh10/main/github-contribution-grid-comet.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vsingh10/vsingh10/master/github-contribution-grid-comet.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vsingh10/vsingh10/master/github-contribution-grid-comet.svg" />
+    <img alt="github-comet" src="https://raw.githubusercontent.com/vsingh10/vsingh10/master/github-contribution-grid-comet.svg" />
   </picture>
 </div>
 
