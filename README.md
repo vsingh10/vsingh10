@@ -1,10 +1,9 @@
 # 💫 About Me:
-I'm Aryan Panchal, a BTech student at IIIT Bhagalpur, deeply passionate about web development. As a motivated MERN stack developer with a strong command of C++, I thrive on solving complex problems and continuously challenging myself through competitive coding. Eager to innovate and make meaningful contributions to the field of technology.
+I'm Vishal Singh, a B.E. Mechanical Engineering student at Thapar Institute of Engineering and Technology, deeply passionate about Deep learning and Data Science. As a dedicated self-learner, I’ve built a solid foundation in Deep Learning, and Data Science, and I’m particularly enthusiastic about applying these technologies to solve engineering problems. I have hands-on experience in combining core mechanical engineering principles with advanced AI techniques to tackle real-world challenges, leveraging industry-standard tools to develop innovative and practical solutions..
 <br>
 ### Connect with me:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aryanpanchal2609/)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/aryanpanchal0926)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vishal-singh10/)
 
 1652 rating in CodeChef (3\*)
 [![CodeChef](https://img.shields.io/badge/CodeChef-%235B4638.svg?logo=codechef&logoColor=white)](https://www.codechef.com/users/nikolas12)  
