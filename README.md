@@ -69,19 +69,40 @@
 
 ## 🏆 Achievements
 
-- 🔬 Multiple international research internships (Canada 🇨🇦, USA 🇺🇸)
-- 📚 Published research in **AI for Mechanics**, **PINNs**, **FNOs**, and **Diffusion Models**
-- 🏅 Machine Learning Intern at **Samsung Research**
-- 💡 Accepted at **AICOMAS 2025 (Paris)** and other top conferences
+- 🇨🇦 **MITACS Globalink Research Fellowship (2024)**  
+  Awarded a **fully funded summer research internship** at École Polytechnique de Montréal, Canada — one of the most prestigious international undergraduate research programs.
+
+- 🥇 **Merit Scholarship III (2022–2024)**  
+  Received scholarships worth INR 1.39L & 1.59L for ranking in the **top 10%** of the Mechanical Engineering department for two consecutive years at TIET.
+
+- 🥉 **3rd Rank in Department (2022–2023)**  
+  Secured **3rd position** in the Mechanical Engineering department based on academic performance. Awarded a certificate and cash prize for excellence.
+
+- 🧪 **Research Excellence**  
+  Published and submitted papers on:  
+  - **Physics-Informed Neural Networks (PINNs)**  
+  - **Reinforcement learning**  
+  - **Kolmogorov-Arnold Networks (KANs)**  
+  - **Optimization**  
+  Contributions featured in *Modelling*, *IEEE TII (under review)*, and *Journal of Computational Science (under review)*.
+
+- 🎤 **Conference Acceptances & Presentations**  
+  - **AICOMAS 2025, Paris** — Presented research on glucose-insulin dynamics using PINNs.  
+  - **MSML 2025, Naples** — Accepted work on neural optimization of auxetic metamaterials.  
+  - **I4AM 2026, IISc Bengaluru** — Two papers accepted on intelligent material design and energy harvesting.
+
+- 💡 **Patent Filed**  
+  Filed a patent for an **AI-powered adaptive insulin dosing system**, contributing toward **affordable and intelligent healthcare** solutions.
 
 ---
 
 ## 🌱 Currently Learning
 
 - Neural Operators (FNO, DeepONet, PIKANs)
-- Diffusion Models for scientific video generation
+- Diffusion Models for video generation
 - Reinforcement Learning for control of physical systems
 - MLOps best practices
+- GenAI for Science
 
 ---
 
