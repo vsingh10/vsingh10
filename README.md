@@ -57,8 +57,18 @@
 
 ## 📌 GitHub Activity
 
+<!-- 🐍 Contribution Snake Animation -->
 ![GitHub Snake Light](https://raw.githubusercontent.com/vsingh10/vsingh10/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 ![GitHub Snake Dark](https://raw.githubusercontent.com/vsingh10/vsingh10/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+
+<!-- 📈 GitHub Stats -->
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=vsingh10&theme=algolia&hide_border=true" />
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api?username=vsingh10&show_icons=true&theme=algolia&hide_border=true" />
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vsingh10&layout=compact&theme=algolia&hide_border=true" />
+</p>
 
 ---
 
