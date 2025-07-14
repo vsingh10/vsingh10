@@ -63,9 +63,8 @@
   <img src="https://github-readme-streak-stats.herokuapp.com?user=vsingh10&theme=algolia&hide_border=true" />
   <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vsingh10&layout=compact&theme=algolia&hide_border=true" />
-</p>
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vsingh10&theme=github-compact&hide_border=true" />
+  <br>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vsingh10&theme=2077" />
 </p>
 
 ---
