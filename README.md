@@ -64,7 +64,7 @@
   <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vsingh10&layout=compact&theme=algolia&hide_border=true" />
   <br>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vsingh10&theme=2079" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vsingh10&theme=tokyonight" />
 </p>
 
 ---
